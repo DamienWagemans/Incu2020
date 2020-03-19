@@ -1,0 +1,1 @@
+URL = 'mongodb://damien:damien@localhost:27017/Device_Configuration'

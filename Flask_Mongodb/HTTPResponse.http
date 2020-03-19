@@ -1,0 +1,6 @@
+PATCH http://localhost:5000/Switch1/g0.1
+Content-Type: application/json
+
+{"State" :  "DOWN"}
+
+###
